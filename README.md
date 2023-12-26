@@ -1,10 +1,6 @@
-# VoteGrasp
-
-Install [Pytorch](https://pytorch.org/get-started/locally/) and [Tensorflow](https://github.com/tensorflow/tensorflow) (for TensorBoard). It is required that you have access to GPUs. The code is tested with Ubuntu 18.04, Pytorch v1.6, TensorFlow v1.14, CUDA 10.1 and cuDNN v7.4.
-
 ## Installation
 
-Install Pytorch and Tensorflow (for TensorBoard). It is required that you have access to GPUs. The code is tested with Ubuntu 18.04, Pytorch v1.16, TensorFlow v1.14, CUDA 10.1 and cuDNN v7.4.
+Install Pytorch and Tensorflow (for TensorBoard). You'll need to have access to GPUs. The code is tested with Ubuntu 18.04, Pytorch v1.16, TensorFlow v1.14, CUDA 10.1 and cuDNN v7.4.
 
 Install packages via Pip.
 ```bash
